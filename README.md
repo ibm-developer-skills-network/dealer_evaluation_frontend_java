@@ -1,1 +1,1 @@
-# coding-project-template
+# dealer_evaluation_frontkend_java
